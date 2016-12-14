@@ -1,0 +1,1 @@
+CREATE TABLE `ygoldsht_bookStore`.`books_tbl` ( `book_id` INT NOT NULL AUTO_INCREMENT , `book_name` INT NOT NULL , PRIMARY KEY (`book_id`)) ENGINE = InnoDB;
